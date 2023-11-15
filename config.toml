@@ -1,0 +1,47 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "slate theme demo"
+theme = "slate"
+
+publishDir = "docs"
+
+[ params ]
+BackgroundImages = [
+  "bg/b1920-000.jpg",
+  "bg/b1920-001.jpg",
+  "bg/b1920-002.jpg",
+  "bg/b1920-003.jpg",
+  "bg/b1920-004.jpg"
+]
+Favicon = "favicon.ico"
+BackgroundStyle = "#657383"
+OpenLinksInNewWindow = true
+
+[[ params.nav ]]
+name = "Ficheros en php"
+tag = "ficheros"
+icon = "file"
+
+[[ params.nav ]]
+name = "Laravel"
+tag = "laravel"
+icon = "brands fa-laravel"
+
+[[ params.nav ]]
+name = "Docker"
+tag = "docker"
+icon = "brands fa-docker"
+
+[[ params.nav ]]
+name = "php"
+tag = "php"
+icon = "php fa-brands"
+
+
+
+[[ params.nav ]]
+name = "Sesiones Cookies y Auth"
+tag = "php"
+icon = "browser"
+
+

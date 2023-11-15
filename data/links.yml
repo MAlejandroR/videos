@@ -1,0 +1,30 @@
+tiles:
+-
+    name: "Crear un contenedor "
+    url: "http://manuel.infenlaces.com/dwes/videos/docker/1_instalar_docker_ubuntu.mp4"
+    img: "logos/docker.svg"
+    bg_color: "#ffffff"
+    txt_color: "#85bf25"
+    tags: [ "docker" ]
+-
+    name: "php referencia wiki"
+    url: "https://es.wikieducator.org/Usuario:ManuelRomero/CertificadoWeb2021/Contenido"
+    img: "logos/php.png"
+    bg_color: "#ffffff"
+    txt_color: "#85bf25"
+    tags: [ "php" ]
+
+-
+    name: "Instalación de laravel"
+    url: "http://manuel.infenlaces.com/dwes/videos/laravel/instalar_laravel.mp4"
+    img: "logos/instalacion_laravel.png"
+    bg_color: "#ffffff"
+    txt_color: "#85bf25"
+    tags: ["php", "laravel"]
+-
+    name: "Instalación de docker "
+    url: "http://manuel.infenlaces.com/dwes/videos/docker/1_instalar_docker_ubuntu.mp4"
+    img: "logos/docker.svg"
+    bg_color: "#ffffff"
+    txt_color: "#85bf25"
+    tags: ["docker"]
